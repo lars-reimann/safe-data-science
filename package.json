@@ -30,7 +30,7 @@
         "conventional-changelog-conventionalcommits": "^8.0.0",
         "semantic-release": "^24.2.1",
         "shx": "^0.3.4",
-        "svelte": "^4.2.19",
+        "svelte": "^5.16.1",
         "typescript": "^5.7.2",
         "vitest": "^2.1.4"
     },
